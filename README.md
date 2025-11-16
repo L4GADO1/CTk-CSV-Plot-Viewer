@@ -65,7 +65,7 @@ pip install -r requirements.txt
 sudo pip install -r requirements.txt
 ```
 
-### Step3. Run the Application
+### Step 3. Run the Application
 ```bash
 python main.py
 ```
@@ -128,4 +128,5 @@ The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
 ## 💖 Thank You for Visiting!
 
 > “Good design is about making things simple yet significant”  
+
 > — *Md. Ariful Islam*

